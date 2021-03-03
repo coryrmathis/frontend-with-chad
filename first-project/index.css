@@ -1,7 +1,16 @@
-.btn-success{
-    background-color: blueviolet;
-    border-color: rgba(137, 43, 226, 0.568);
+.btn-success {
+    background-color: greenyellow;
 }
+
+button.btn-success {
+    border-color: greenyellow;
+}
+
+#home-page-logo {
+    width: 5%;
+    height: 5%;
+}
+
 
 
 
